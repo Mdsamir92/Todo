@@ -106,7 +106,9 @@ Button{
 .list-heading{
   font-size: 20px;
 }
-
+input::placeholder{
+font-size: 10px;
+}
 
 }
 
