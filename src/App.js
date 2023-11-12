@@ -67,7 +67,7 @@ function App() {
                   <div key={i} className="listdata">{data}</div>
                   <div className="btn-pos">
                     <Button variant="primary" onClick={() => removeActivity(i)}>
-                     X
+                     🗑
                      </Button>
                   </div>
                
